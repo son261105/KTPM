@@ -1,0 +1,72 @@
+1. Thanh điều hướng bên trái (Sidebar Menu)
+
+Avatar + Tên người dùng
+
+Hiển thị ảnh đại diện (avatar).
+
+Hiển thị tên quản trị: Vũ Minh Quang.
+
+Các mục điều hướng (Navigation):
+
+ Trang chủ → Quay về màn hình chính (dashboard tổng quan).
+
+ Sản phẩm → Quản lý danh sách sản phẩm: thêm, sửa, xóa, cập nhật.
+
+ Khách hàng → Quản lý thông tin khách hàng: danh sách, chi tiết, liên hệ.
+
+Đơn hàng → Quản lý đơn hàng: theo dõi, xử lý trạng thái (đang chờ, hoàn tất...).
+
+ Thống kê → Xem báo cáo thống kê doanh số, khách hàng, sản phẩm.
+
+ Đăng xuất → Thoát khỏi hệ thống.
+
+2. Thanh tiêu đề (Header)
+
+Nội dung:
+“TRANG TỔNG QUÁT CỦA CỬA HÀNG MINHQUANG FOOD”
+
+Chức năng: hiển thị tiêu đề chính của dashboard.
+
+3. Khu vực nội dung chính (Main Content - Dashboard Overview)
+
+Gồm 3 thẻ thống kê (cards):
+
+Khách hàng
+
+Icon minh họa khách hàng.
+
+Hiển thị số lượng khách hàng hiện có (1).
+
+Phần mô tả: định nghĩa ngắn về "sản phẩm" nhưng đặt dưới thẻ "Khách hàng".
+
+Sản phẩm
+
+Icon minh họa giỏ hàng/mua sắm.
+
+Hiển thị số lượng sản phẩm (60).
+
+Phần mô tả: giải thích về "khách hàng mục tiêu".
+
+Doanh thu
+
+Icon minh họa mua sắm trực tuyến.
+
+Hiển thị doanh thu hiện tại (0 đ).
+
+Phần mô tả: giải thích doanh thu là tổng số tiền thu được từ bán hàng/dịch vụ.
+
+
+
+Hệ thống quản trị trong ảnh bao gồm:
+
+Quản lý giao diện người dùng (avatar, tên, đăng xuất).
+
+Điều hướng: Trang chủ, Sản phẩm, Khách hàng, Đơn hàng, Thống kê.
+
+Dashboard thống kê:
+
+Tổng số khách hàng.
+
+Tổng số sản phẩm.
+
+Tổng doanh thu.
